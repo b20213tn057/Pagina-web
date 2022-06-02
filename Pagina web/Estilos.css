@@ -1,0 +1,51 @@
+#encabezado{
+    border-radius: 10px;
+    width: 80%;
+    margin: 10px 10%;
+    background-image: url(https://media.giphy.com/media/cNNEOwOQwWveFLxw6J/giphy.gif);
+    padding: 20px 20px 20px 20px;
+}
+#encabezado_2{
+    color: aliceblue;
+    border-radius: 10px;
+    width: 80%;
+    margin: 10px 10%;
+    background-image: url(https://i.pinimg.com/originals/17/33/de/1733de652d72f663ab3098ff0df420f3.gif);
+    padding: 20px 20px 20px 20px;
+}
+#estilo_1{
+    text-align: center;
+    color:beige;
+}
+#estilo_2{
+    text-align: center;
+    color: whitesmoke;
+}
+#estilo_3{
+    text-align: left;
+    color: blanchedalmond;
+}
+#estilo_4{
+    text-align: right;
+    color: azure;
+}
+#estilo_5{
+    text-align: left;
+    color: aliceblue;
+}
+#estilo_img{
+    border-radius: 10px;
+    width: auto;
+    margin: auto;
+    background-image:url(https://c.tenor.com/K0HVCg5P4mIAAAAi/spinning-cheems-kbekeb-gif.gif);
+}
+
+#fondo{
+    background-image: url(https://www.creativosonline.org/wp-content/uploads/2017/08/gifs-antiguos.gif);
+}
+#fondo_2{
+    background-image: url(https://newesc.com/wp-content/uploads/C%C3%B3mo-Subir-un-GIF-a-Facebook-Twitter-e-Instagram.gif);
+}
+#fondo_3{
+    background-image: url(http://alternopolis.com/wp-content/uploads/2017/07/tumblr_otc9gj5rQG1rv33k2o10_500.gif);
+}
